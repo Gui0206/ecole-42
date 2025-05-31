@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/guilhermeholanda/Desktop/ecole-42/hello'
+relocations:     []
+...
