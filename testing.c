@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include "/ft_isaplha.c"
+#include "libft.h"
 
 int main() {
-  ft_isalpha('2');
-  printf("Hello test!");
+  ft_isalnum('%');
   return 0;
 }
